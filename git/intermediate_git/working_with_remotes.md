@@ -22,7 +22,7 @@ You might perform a brief query and find the command `git push --force`. This co
 ```bash
 $ git push origin main
 $ git rebase -i --root
-$ git push --force
+$ git push --force origin <Your remote branch>
 $ git log
 ```
 
